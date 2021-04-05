@@ -2,9 +2,9 @@
 [![profile_banner](./banner.gif)]()
 
 # 💬 My Latest Blog Posts
-<!-- post_list_start -->
+<!-- BLOG-POST-LIST:START -->
 
-<!-- post_list_end  -->
+<!-- BLOG-POST-LIST:END -->
 
 
 
