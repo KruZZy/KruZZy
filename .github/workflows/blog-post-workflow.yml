@@ -2,6 +2,7 @@ name: update_blog_posts
 on:
   schedule: 
     - cron: '0 * * * *' 
+  workflow_dispatch: 
 jobs:
   update-readme-with-blog:
     name: update README with new blog posts
