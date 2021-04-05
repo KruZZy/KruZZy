@@ -1,5 +1,13 @@
 
 [![profile_banner](./banner.gif)]()
+
+# 💬 My Latest Blog Posts
+<!-- post_list_start -->
+
+<!-- post_list_end  -->
+
+
+
 <!--
 **KruZZy/KruZZy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
