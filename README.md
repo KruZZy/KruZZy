@@ -1,5 +1,5 @@
-### Hi there 👋
 
+[![profile_banner](./banner.gif)]()
 <!--
 **KruZZy/KruZZy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
