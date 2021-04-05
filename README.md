@@ -1,5 +1,6 @@
 
 [![profile_banner](./banner.gif)]()
+- ⚡ currently a Web Dev @ National Student Council of Romania
 
 # 💬 My Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
