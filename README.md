@@ -11,7 +11,8 @@
 - [Prime numbers: Fast and Slow - part 3](https://dev.to/kruzzy/prime-numbers-fast-and-slow-part-3-2dgm)
 <!-- BLOG-POST-LIST:END -->
 
-![github_stats](https://github-readme-stats.vercel.app/api?username=KruZZy&show_icons=true&theme=dark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KruZZy&langs_count=8&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![github_stats](https://github-readme-stats.vercel.app/api?username=KruZZy&show_icons=true&theme=dark) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KruZZy&langs_count=8&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **KruZZy/KruZZy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
