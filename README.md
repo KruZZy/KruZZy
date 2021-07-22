@@ -4,11 +4,11 @@
 
 # 💬 My Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [LeetCode explained: July Challenge 2021, week 4 - Partition Array into Disjoint Sets (medium)](https://dev.to/kruzzy/leetcode-explained-july-challenge-2021-week-4-partition-array-into-disjoint-sets-medium-54ic)
 - [A look into Dynamic Programming - Matrix Chain Multiplication](https://dev.to/kruzzy/a-look-into-dynamic-programming-matrix-chain-multiplication-34gb)
 - [Using divide and conquer: closest pair of points](https://dev.to/kruzzy/using-divide-and-conquer-closest-pair-of-points-5e2g)
 - [Exploring backtracking](https://dev.to/kruzzy/exploring-backtracking-25dp)
 - [Why is Graph Theory so amazing? - part 4, working with weights & Dijkstra](https://dev.to/kruzzy/why-is-graph-theory-so-amazing-part-4-working-with-weights-dijkstra-450k)
-- [Why is Graph Theory so amazing? - part 3 - BFS, bipartite graphs](https://dev.to/kruzzy/why-is-graph-theory-so-amazing-part-3-bfs-bipartite-graphs-2860)
 <!-- BLOG-POST-LIST:END -->
 
 ![github_stats](https://github-readme-stats.vercel.app/api?username=KruZZy&show_icons=true&theme=dark) 
