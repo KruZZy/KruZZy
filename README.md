@@ -1,6 +1,3 @@
-
-[![profile_banner](./banner.gif)]()
-
 # 💬 My Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [LeetCode Explained: 50. Pow&lpar;x, n&rpar; - Logarithmic Exponentiation &lpar;medium&rpar;](https://dev.to/kruzzy/leetcode-explained-50-pow-x-n-logarithmic-exponentiation-medium-3p1o)
